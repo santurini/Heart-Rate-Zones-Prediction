@@ -30,7 +30,7 @@ The data are coming from [FIT files](https://developer.garmin.com/fit/protocol/)
 
 The data are relative to 1 minute long running efforts, the task is to predict the associated heart-rate zone being careful to obtain a performing model both on the public and on the private test set.
 
-## Team members
+## Team Members
 - [Giulio D'Erasmo](https://github.com/giulio-derasmo)
 - [Arturo Ghinassi](https://github.com/santurini)
 - [Andrea Potì](https://github.com/obster991)
