@@ -6,6 +6,15 @@
 
 This project allowed us to win the [Hackaton](https://www.kaggle.com/competitions/statistical-learning-sapienza-spring-2022) 2021/2022 reserved for students of the  Statistical Learning course of the MSc in Data Science at the University of Rome, La Sapienza.
 
+## Friendly Reminder
+
+If you use or take inspiration from this repository please cite with this link: [santurini/Heart-Rate-Zones-Prediction](https://github.com/santurini/Heart-Rate-Zones-Prediction)
+
+Your support will be truly appreciated and feel free to contact me at my following links or just send me an email:
+- [Linkedin](https://www.linkedin.com/in/arturo-ghinassi-50b8a0219/)
+- [Kaggle](https://www.kaggle.com/santurini)
+- ghinassi.1863151@studenti.uniroma1.it
+
 ## 🏃 Run Baby Run 🏃🏻‍♀️
 
 Heart rate zones, or HR zones, are a way to monitor how hard you’re training.
